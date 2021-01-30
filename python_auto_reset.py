@@ -24,3 +24,7 @@ def amir1():
 
 def amir2():
     pass
+<<<<<<< HEAD
+=======
+    
+>>>>>>> parent of 9841510... save
