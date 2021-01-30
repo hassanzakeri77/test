@@ -10,6 +10,8 @@ def like_cheese():
 
 while True:
     pass
+def test1():
+    pass
 
 
     
