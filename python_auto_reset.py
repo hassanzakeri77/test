@@ -12,16 +12,4 @@ while True:
     pass
 
 
-def test():
-    pass
-
-def test1():
-    pass
-
-
-def amir1():
-    pass
-
-def amir2():
-    pass
     
