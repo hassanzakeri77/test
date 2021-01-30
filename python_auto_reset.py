@@ -17,3 +17,10 @@ def test():
 
 def test1():
     pass
+
+
+def amir1():
+    pass
+
+def amir2():
+    pass
